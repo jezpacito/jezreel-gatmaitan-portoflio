@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactjs-portfolio-app/static/css/main.0eaa51ce.css",
+    "main.js": "/reactjs-portfolio-app/static/js/main.32df670d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactjs-portfolio-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profilephoto1.png": "/reactjs-portfolio-app/static/media/profilephoto1.14d9304b2973026d1f15.png",
+    "static/media/bg-2.jpg": "/reactjs-portfolio-app/static/media/bg-2.6e52258b2c2e739c11a9.jpg",
+    "static/media/Poppins-Thin.ttf": "/reactjs-portfolio-app/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/reactjs-portfolio-app/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/reactjs-portfolio-app/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/reactjs-portfolio-app/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/reactjs-portfolio-app/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/reactjs-portfolio-app/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/bg-test.jpg": "/reactjs-portfolio-app/static/media/bg-test.e26b1e201523eafd7c6f.jpg",
+    "static/media/Poppins-ExtraBold.ttf": "/reactjs-portfolio-app/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/me.jpeg": "/reactjs-portfolio-app/static/media/me.aed460d36d5bfecb28e7.jpeg",
+    "static/media/philip.png": "/reactjs-portfolio-app/static/media/philip.9ace1e508e8e9a718410.png",
+    "static/media/ajay.png": "/reactjs-portfolio-app/static/media/ajay.ea7de96cd4fa2e6f4fea.png",
+    "static/media/louie.png": "/reactjs-portfolio-app/static/media/louie.4981705ff45e7497a6ed.png",
+    "index.html": "/reactjs-portfolio-app/index.html",
+    "main.0eaa51ce.css.map": "/reactjs-portfolio-app/static/css/main.0eaa51ce.css.map",
+    "main.32df670d.js.map": "/reactjs-portfolio-app/static/js/main.32df670d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactjs-portfolio-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eaa51ce.css",
+    "static/js/main.32df670d.js"
+  ]
+}
