@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/jezreel-gatmaitan-portoflio/static/css/main.4627a259.css",
-    "main.js": "/jezreel-gatmaitan-portoflio/static/js/main.6dd884e6.js",
-    "static/js/787.28cb0dcd.chunk.js": "/jezreel-gatmaitan-portoflio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/profilephoto1.png": "/jezreel-gatmaitan-portoflio/static/media/profilephoto1.14d9304b2973026d1f15.png",
-    "static/media/bg-2.jpg": "/jezreel-gatmaitan-portoflio/static/media/bg-2.6e52258b2c2e739c11a9.jpg",
-    "static/media/Poppins-Thin.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/Poppins-Medium.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/bg-test.jpg": "/jezreel-gatmaitan-portoflio/static/media/bg-test.e26b1e201523eafd7c6f.jpg",
-    "static/media/Poppins-ExtraBold.ttf": "/jezreel-gatmaitan-portoflio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/me.jpeg": "/jezreel-gatmaitan-portoflio/static/media/me.aed460d36d5bfecb28e7.jpeg",
-    "static/media/philip.png": "/jezreel-gatmaitan-portoflio/static/media/philip.9ace1e508e8e9a718410.png",
-    "static/media/ajay.png": "/jezreel-gatmaitan-portoflio/static/media/ajay.ea7de96cd4fa2e6f4fea.png",
-    "static/media/louie.png": "/jezreel-gatmaitan-portoflio/static/media/louie.4981705ff45e7497a6ed.png",
-    "index.html": "/jezreel-gatmaitan-portoflio/index.html",
-    "main.4627a259.css.map": "/jezreel-gatmaitan-portoflio/static/css/main.4627a259.css.map",
-    "main.6dd884e6.js.map": "/jezreel-gatmaitan-portoflio/static/js/main.6dd884e6.js.map",
-    "787.28cb0dcd.chunk.js.map": "/jezreel-gatmaitan-portoflio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/portfolio-app/static/css/main.b3a21d97.css",
+    "main.js": "/portfolio-app/static/js/main.27336057.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portfolio-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profilephoto1.png": "/portfolio-app/static/media/profilephoto1.14d9304b2973026d1f15.png",
+    "static/media/bg-2.jpg": "/portfolio-app/static/media/bg-2.6e52258b2c2e739c11a9.jpg",
+    "static/media/Poppins-Thin.ttf": "/portfolio-app/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/portfolio-app/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/portfolio-app/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/portfolio-app/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/portfolio-app/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/portfolio-app/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/bg-test.jpg": "/portfolio-app/static/media/bg-test.e26b1e201523eafd7c6f.jpg",
+    "static/media/Poppins-ExtraBold.ttf": "/portfolio-app/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/me.jpeg": "/portfolio-app/static/media/me.aed460d36d5bfecb28e7.jpeg",
+    "static/media/philip.png": "/portfolio-app/static/media/philip.9ace1e508e8e9a718410.png",
+    "static/media/ajay.png": "/portfolio-app/static/media/ajay.ea7de96cd4fa2e6f4fea.png",
+    "static/media/louie.png": "/portfolio-app/static/media/louie.4981705ff45e7497a6ed.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.b3a21d97.css.map": "/portfolio-app/static/css/main.b3a21d97.css.map",
+    "main.27336057.js.map": "/portfolio-app/static/js/main.27336057.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portfolio-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4627a259.css",
-    "static/js/main.6dd884e6.js"
+    "static/css/main.b3a21d97.css",
+    "static/js/main.27336057.js"
   ]
 }
