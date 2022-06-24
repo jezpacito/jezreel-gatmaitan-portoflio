@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.b3a21d97.css",
-    "main.js": "/portfolio-app/static/js/main.27336057.js",
+    "main.js": "/portfolio-app/static/js/main.44e3f2fa.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/profilephoto1.png": "/portfolio-app/static/media/profilephoto1.14d9304b2973026d1f15.png",
     "static/media/bg-2.jpg": "/portfolio-app/static/media/bg-2.6e52258b2c2e739c11a9.jpg",
@@ -14,16 +14,17 @@
     "static/media/bg-test.jpg": "/portfolio-app/static/media/bg-test.e26b1e201523eafd7c6f.jpg",
     "static/media/Poppins-ExtraBold.ttf": "/portfolio-app/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/me.jpeg": "/portfolio-app/static/media/me.aed460d36d5bfecb28e7.jpeg",
+    "static/media/jover.png": "/portfolio-app/static/media/jover.4dec4508c4d389953bce.png",
     "static/media/philip.png": "/portfolio-app/static/media/philip.9ace1e508e8e9a718410.png",
     "static/media/ajay.png": "/portfolio-app/static/media/ajay.ea7de96cd4fa2e6f4fea.png",
     "static/media/louie.png": "/portfolio-app/static/media/louie.4981705ff45e7497a6ed.png",
     "index.html": "/portfolio-app/index.html",
     "main.b3a21d97.css.map": "/portfolio-app/static/css/main.b3a21d97.css.map",
-    "main.27336057.js.map": "/portfolio-app/static/js/main.27336057.js.map",
+    "main.44e3f2fa.js.map": "/portfolio-app/static/js/main.44e3f2fa.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3a21d97.css",
-    "static/js/main.27336057.js"
+    "static/js/main.44e3f2fa.js"
   ]
 }

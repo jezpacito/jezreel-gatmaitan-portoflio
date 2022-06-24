@@ -9,6 +9,7 @@ import Animations from "../../utilities/Animations";
 import "./Testimonial.css";
 import philip from "../../../src/assets/Testimonial/philip.png";
 import ajay from "../../../src/assets/Testimonial/ajay.png";
+import jover from "../../../src/assets/Testimonial/jover.png";
 import louie from "../../../src/assets/Testimonial/louie.png";
 import shape from "../../../src/assets/Testimonial/shape-bg.png";
 
@@ -62,7 +63,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      Base on my supervision to her, All back end task that we
+                      Base on my observation to her, All back end task that we
                       need are efficient and able to finish task on time.
                       <i className="fa fa-quote-right" />
                     </p>
@@ -134,11 +135,9 @@ export default function Testimonial(props) {
                     <p>
                       <i className="fa fa-quote-left" />
                       She is exceptionally well organized and has outstanding
-                      time management skills.My team colleagues applauded her
+                      time management skills. My team colleagues applauded her
                       for creating and keeping to a timeline for all phases of
-                      the project during one project. She's also a positive
-                      person who sees setbacks as opportunities to learn and
-                      improve.
+                      the project during one project.
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
@@ -166,14 +165,15 @@ export default function Testimonial(props) {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-lg-12">
+
+              <div className="col-lg-12">
                 <div className="testi-item">
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      I patronized Ehizeex and when He delivered, I honestly
-                      fell in love with the project He is a very honest guy and
-                      he delivers ontime.
+                      She's a positive person who sees setbacks as opportunities
+                      to learn and improve. She believes that there is always a
+                      creative solution to a problem, and she enjoys finding it.
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
@@ -195,12 +195,12 @@ export default function Testimonial(props) {
                     </ul>
                   </div>
                   <div className="client-info">
-                    <img src={man} alt="no internet connection"></img>
-                    <h5>Daisy Dominic</h5>
-                    <p>CEO InansGlobal</p>
+                    <img src={jover} alt="no internet connection"></img>
+                    <h5>Jover Calibo</h5>
+                    <p>User Interface Designer {"&"} Graphic Artist</p>
                   </div>
                 </div>
-              </div> */}
+              </div>
             </OwlCarousel>
           </div>
         </div>
