@@ -63,40 +63,6 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      Base on my observation to her, All back end task that we
-                      need are efficient and able to finish task on time.
-                      <i className="fa fa-quote-right" />
-                    </p>
-                    <ul className="stars list-unstyled">
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star-half-alt" />
-                      </li>
-                      <li>
-                        <i className="fa fa-star" />
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="client-info">
-                    <img src={ajay} alt="no internet connection"></img>
-                    <h5>Agustin Jay Consolacion</h5>
-                    <p>Software Engineer</p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-12">
-                <div className="testi-item">
-                  <div className="testi-comment">
-                    <p>
-                      <i className="fa fa-quote-left" />
                       She's a fantastic coworker. I would describe her as a
                       well-organized and smart someone who works well under
                       duress. She's a good decision-maker and someone you can
@@ -125,6 +91,40 @@ export default function Testimonial(props) {
                     <img src={philip} alt="no internet connection"></img>
                     <h5>Philip Calub</h5>
                     <p>DevOps Engineer</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-12">
+                <div className="testi-item">
+                  <div className="testi-comment">
+                    <p>
+                      <i className="fa fa-quote-left" />
+                      Base on my observation to her, All back end task that we
+                      need are efficient and able to finish task on time.
+                      <i className="fa fa-quote-right" />
+                    </p>
+                    <ul className="stars list-unstyled">
+                      <li>
+                        <i className="fa fa-star" />
+                      </li>
+                      <li>
+                        <i className="fa fa-star" />
+                      </li>
+                      <li>
+                        <i className="fa fa-star" />
+                      </li>
+                      <li>
+                        <i className="fa fa-star-half-alt" />
+                      </li>
+                      <li>
+                        <i className="fa fa-star" />
+                      </li>
+                    </ul>
+                  </div>
+                  <div className="client-info">
+                    <img src={ajay} alt="no internet connection"></img>
+                    <h5>Agustin Jay Consolacion</h5>
+                    <p>Software Engineer</p>
                   </div>
                 </div>
               </div>
