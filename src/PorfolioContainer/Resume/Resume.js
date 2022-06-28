@@ -67,7 +67,7 @@ const Resume = (props) => {
   const projectsDetails = [
     {
       title: "Personal Portfolio Website",
-      duration: { fromDate: "2022", toDate: "2022" },
+      duration: { fromDate: "2022", toDate: "Present" },
       description:
         "A Personal Portfolio website to showcase all my details and projects at one place.",
       subHeading: "Technologies Used: React JS, Bootsrap",
@@ -89,7 +89,7 @@ const Resume = (props) => {
     },
     {
       title: "Clientwise Web App",
-      duration: { fromDate: "2020", toDate: "2021" },
+      duration: { fromDate: "2022", toDate: "Present" },
       description:
         "Developed a clientwise smart tool web application that manages the process of annulment cases with subscription management. ",
       subHeading:
@@ -126,14 +126,14 @@ const Resume = (props) => {
         <ResumeHeading
           heading={"CODEVIDIA"}
           subHeading={"FULLSTACK DEVELOPER"}
-          fromDate={"March 2020"}
+          fromDate={"March 2021"}
           toDate={"present"}
         />
         <br />
         <ResumeHeading
-          heading={"XIKLAN DIGITAL"}
+          heading={"XIKLAB DIGITAL"}
           subHeading={"LARAVEL BACKEND DEVELOPER"}
-          fromDate={"March 2020"}
+          fromDate={"March 2022"}
           toDate={"present"}
         />
         <br />
