@@ -46,7 +46,7 @@ const Resume = (props) => {
   const resumeBullets = [
     { label: "Education", logoSrc: "education.svg" },
     { label: "Work History", logoSrc: "work-history.svg" },
-    { label: "Programming Skills", logoSrc: "programming-skills.svg" },
+    { label: "Technical Skills", logoSrc: "programming-skills.svg" },
     { label: "Projects", logoSrc: "projects.svg" },
     // { label: "Interests", logoSrc: "interests.svg" },
   ];
@@ -76,8 +76,8 @@ const Resume = (props) => {
       title: "DTI Region 12 Online platform",
       duration: { fromDate: "Sept 2020", toDate: "Mar 2021" },
       description:
-        "An  Online platform where citizens all over Region 12 Philippines can access the services of the Department of Trade and Industry (DTI) such as sales promotion and others. " +
-        " https://r12services.dti.gov.ph/",
+        // "An  Online platform where citizens all over Region 12 Philippines can access the services of the Department of Trade and Industry (DTI) " +
+        "URL: https://r12services.dti.gov.ph/",
       subHeading: "Technologies Used: React JS, Laravel, Ant Design",
     },
     {
@@ -91,7 +91,8 @@ const Resume = (props) => {
       title: "Clientwise Web App",
       duration: { fromDate: "2022", toDate: "Present" },
       description:
-        "Developed a clientwise smart tool web application that manages the process of annulment cases with subscription management. ",
+        // "Developed a clientwise smart tool web application that manages the process of annulment cases with subscription management. "
+        "URL: https://home.clientwiseportal.com/",
       subHeading:
         "Technologies Used:  React JS, Laravel , Material UI, Metronic",
     },
